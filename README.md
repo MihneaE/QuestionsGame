@@ -1,2 +1,2 @@
 # QuestionsGame
-This is a miniGame including an user and questions 
+This is a mini-game that contains 4 types of questions of different levels, and when starting it, the player must answer one question of a different level in turn. If they answer correctly, a question from the next level will be displayed, and if they answer incorrectly, a question from the same level will be displayed. The player loses when they answer two questions from the same level incorrectly or wins if they have answered one question correctly from each level. The game has a small bug that I didn't know how to solve at runtime
